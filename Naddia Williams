@@ -1,4 +1,38 @@
 Aurthor's Name: Naddia Williams
 Date created : July 16, 2025
 Name of Course: ITT103 Programming Technique
-GitHub Public URL to code
+GitHub Public URL to code: https://github.com/Naddia123
+
+
+PROGRAM OVERVIE
+This python Program is  designed for a Hospital Health care system. Its capabilities are to assign such as: 
+Patient Registration,
+Doctor Profile Management
+Appointment Booking
+View Appointment 
+Appointment cancellation
+automated Billing and Receipt Generation
+
+
+HOW TO EXECUTE\RUN THE PROGRAM
+Ensure that the Python Program or Software is installed on your device
+Ensure that the program is run or executed as required in the Python software correctly 
+Ensuring all requireD steps are excuted properly; for eg in the table options from 1 to 8 any choice that is entered 
+must be accurately executed to provide the neccessary outcome - (1 patient registration ) this program  will ask you to enter 
+the patient name , age, gender, health care choice yes\no . Once this is answered the information is saved and process and the result
+will be   that the patient is registered.
+
+REQUIRED MODIFICATION
+As efficient as this program is. There can be an improvement of modification to better the services of this program.
+In that it be adjusted to allocate needs such as:
+Avoidance of clashes
+Improve error handlings
+
+Assumptions and limitations
+The program is case sensitive  hence is may assume that the information entered is entered exactly as it displays
+This in itself is a limitation and is 
+Time consuming
+
+
+
+
